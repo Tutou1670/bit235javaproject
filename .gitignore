@@ -1,0 +1,8 @@
+# 忽略编译产生的字节码文件，别把 .class 传上 GitHub
+*.class
+
+# 忽略编辑器/系统的杂物
+.vscode/
+*.cmd.bak
+Thumbs.db
+.DS_Store
